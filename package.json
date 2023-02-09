@@ -1,0 +1,19 @@
+{
+  "name": "byo",
+  "version": "1.0.0",
+  "description": "byo",
+  "main": "javascript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henewi/byo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henewi/byo/issues"
+  },
+  "homepage": "https://github.com/henewi/byo#readme"
+}
